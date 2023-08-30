@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfSale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sale>
+    <Date>2022-05-23T17:29:25.0284804+03:00</Date>
+    <Id>3</Id>
+    <CustFirstName>jdlkj</CustFirstName>
+    <CustLastName>sdjkls</CustLastName>
+    <CustPhoneNumber>dljfkdgkf</CustPhoneNumber>
+    <CustEmail>sdlkslj@dghjhsj.c</CustEmail>
+    <Value>1</Value>
+    <Department>
+      <Id>0</Id>
+      <Name>Clothing</Name>
+    </Department>
+  </Sale>
+  <Sale>
+    <Date>2022-05-23T17:29:25.0284804+03:00</Date>
+    <Id>3</Id>
+    <CustFirstName>jdlkj</CustFirstName>
+    <CustLastName>sdjkls</CustLastName>
+    <CustPhoneNumber>dljfkdgkf</CustPhoneNumber>
+    <CustEmail>sdlkslj@dghjhsj.c</CustEmail>
+    <Value>1</Value>
+    <Department>
+      <Id>0</Id>
+      <Name>Clothing</Name>
+    </Department>
+  </Sale>
+</ArrayOfSale>
